@@ -1,4 +1,4 @@
-/*Blinking led in beaglebone black
+/*Glowing USR0 led in beaglebone black
  *from schematic- GPIO1_21 connected to USR0 led
  *using assembler directives and am335x trm
  * */
